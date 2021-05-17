@@ -1,0 +1,121 @@
+body{
+    background-color: #47382c;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .contacto{
+    margin: auto;
+    background-color: #ffffbf;
+    width: 700px;
+    padding: 70px;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: auto;
+  }
+
+  .letra{
+    font-family: 'Bangers', cursive;
+    text-align: right;
+    font-size: 3em;
+    text-shadow: 2px 2px rgb(255, 193, 7),
+    1px 1px rgb(255, 193, 7),
+    2px 2px rgb(255, 193, 7),
+    3px 3px rgb(255, 193, 7),
+    4px 4px rgb(255, 193, 7),
+    5px 5px rgb(255, 193, 7),
+    6px 6px rgb(255, 193, 7),
+    7px 7px rgb(255, 193, 7),
+    8px 8px rgb(255, 193, 7),
+    9px 9px rgb(255, 193, 7),
+    10px 10px rgb(255, 193, 7),
+    11px 11px rgb(255, 193, 7);
+  }
+
+  .productos{
+      width: 100%;
+      max-width: 3000%;
+      height: 500px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: auto;
+      margin-top: 5%;
+  }
+
+  .card{
+    margin-right: 5%;
+    margin-bottom: 2%;
+  }
+
+  .contenedor2{
+    margin-top: 3%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-right: 0%;
+    width: 50%;
+    align-content: center;
+}
+
+.foto{
+  width: 400px;
+  height: 400px;
+}
+
+.nosotros{
+  width: 90%;
+  max-width: 2000px;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.nosotros .titulo{
+  margin-top: 5%;
+}
+.nosotros .texto{
+  text-align: justify;
+  margin-top: 5%;
+}
+.nosotros .peque{
+  text-align: center;
+  margin-top: 5%;
+  font-size: larger;
+}
+
+.informacion .texto{
+  text-align: justify;
+  margin-top: 5%;
+}
+
+.informacion{
+  margin-right: 5%;
+  margin-bottom: 2%;
+  width: 100%;
+  max-width: 3000%
+  justify-content:center;
+  margin-top: 5%;
+}
+
+.contacto-index{
+  align-content: center;
+  background-color: #ffffbf;
+  width: 1000px;
+  padding: 30px;
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: auto;
+  justify-content: center;
+  margin-bottom: 10%;
+}
+
+.contacto-index .boton{
+  align-content: center;
+
+}
+
+.foto-final{
+      position: absolute;
+      top: 25%;
+      left: 60%;
+}
